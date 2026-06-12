@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=220&section=header&text=Ahan%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20%40%20Northeastern%20University&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=220&section=header&text=Ahan%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20and%20AI%20%40%20Northeastern%20University&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Agents+with+MCP;Full+Stack+Engineer+%7C+Spring+Boot+%2B+React+%2B+Node.js;LLM+Application+%26+Computer+Vision+Systems;Open+Source+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Autonomous+AI+Agents+with+MCP;Full+Stack+Engineer+%7C+Spring+Boot+%2B+React+%2B+Node.js;LLM+Application+%26+Computer+Vision+Systems;Open+Source+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
