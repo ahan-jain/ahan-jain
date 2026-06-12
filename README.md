@@ -250,7 +250,7 @@ Built a web application that let users explore artist, album, and track-level au
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahan-jain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahan-jain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&hide_rank=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=ahan-jain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahan-jain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="60%" />
