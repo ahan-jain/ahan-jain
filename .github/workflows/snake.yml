@@ -22,7 +22,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=8B5CF6&color_dots_0=161B22&color_dots_1=4C2A85&color_dots_2=6D28D9&color_dots_3=8B5CF6&color_dots_4=A78BFA
-
+            color_snake=A855F7
+            
       - name: push svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
