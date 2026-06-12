@@ -160,7 +160,7 @@ Built with Next.js and FastAPI, the platform operates as an offline-first Progre
 ## Experience
 
 ### Application Development Co-op · General Atlantic
-**New York, NY — July 2026 – Dec 2026** · *Incoming*
+**New York, NY · July 2026 – Dec 2026** · *Incoming*
 
 Incoming co-op with General Atlantic's Application Development team, contributing to the design, development, testing, and deployment of software solutions for one of the world's leading growth equity firms (~$118B AUM, 900+ professionals across 20 countries).
 
@@ -176,7 +176,7 @@ Incoming co-op with General Atlantic's Application Development team, contributin
 ![SQL](https://img.shields.io/badge/-SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI Engineer Co-op · Darby
-**Boston, MA — July 2025 – Dec 2025**
+**Boston, MA · July 2025 – Dec 2025**
 
 Worked across the AI and platform engineering teams to build production microservices that combine LLM reasoning with structured data pipelines, and shipped a customer-facing analytics platform used by 15+ partner organizations.
 
@@ -199,7 +199,7 @@ Worked across the AI and platform engineering teams to build production microser
 ---
 
 ### Software Engineer · Oasis NEU
-**Boston, MA — Jan 2024 – April 2024**
+**Boston, MA · Jan 2024 – April 2024**
 
 Collaborated within a 4-person engineering team to design and build "Husky Laundry," a real-time laundry availability application used by students across Northeastern's residence halls.
 
@@ -216,7 +216,7 @@ Collaborated within a 4-person engineering team to design and build "Husky Laund
 ---
 
 ### Software Engineering Intern · Net Solutions
-**Remote — May 2021 – June 2021**
+**Remote · May 2021 – June 2021**
 
 Built a web application that let users explore artist, album, and track-level audio data via the Spotify Web API, translating raw API responses into interactive, user-friendly visualizations.
 
