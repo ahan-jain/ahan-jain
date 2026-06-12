@@ -271,7 +271,7 @@ Built a web application that let users explore artist, album, and track-level au
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahan-jain/ahan-jain/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/ahan-jain/ahan-jain/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
 
 </div>
 
