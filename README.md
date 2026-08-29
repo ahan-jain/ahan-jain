@@ -81,7 +81,9 @@ I'm a Computer Science student at **Northeastern University**, concentrating in 
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,jupyter,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,azure&theme=dark" />
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **AI / ML Libraries & Tools**
 
