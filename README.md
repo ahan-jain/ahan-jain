@@ -1,17 +1,17 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=220&section=header&text=Ahan%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20and%20AI%20%40%20Northeastern%20University&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A855F7&height=220&section=header&text=Ahan%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Application%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20and%20AI%20%40%20Northeastern%20University&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Autonomous+AI+Agents+with+MCP;Full+Stack+Engineer+%7C+Spring+Boot+%2B+React+%2B+Node.js;LLM+Application+%26+Computer+Vision+Systems;Open+Source+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Application+Developer+Co-op+%40+General+Atlantic;Building+Autonomous+AI+Agents+with+MCP;Full+Stack+Engineer+%7C+React+%2B+Express+%2B+Node.js;LLM+Application+%26+Computer+Vision+Systems;Open+Source+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![GPA](https://img.shields.io/badge/GPA-3.72%2F4.00-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-3.74%2F4.00-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Dean's List](https://img.shields.io/badge/Dean's%20List-Northeastern%20University-6366F1?style=for-the-badge&logo=academia&logoColor=white)
 ![Honors Program](https://img.shields.io/badge/Honors%20Program-Computer%20Science-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Boston%2C%20MA-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -42,16 +42,17 @@
 
 I'm a Computer Science student at **Northeastern University**, concentrating in **Artificial Intelligence**, with hands-on experience shipping production AI systems, full-stack platforms, and autonomous agent architectures.
 
-- 🔭 Currently building **OpsPilot** — an autonomous operations agent powered by the **Model Context Protocol (MCP)** and the **Claude API**
+- 💼 Currently an **Application Developer Co-op at General Atlantic** — General Atlantic's first-ever application development co-op — building an internal platform that routes new application proposals through product, security, risk, infrastructure, and QA review to an 88-point operational readiness certification
+- 🔭 Also building **OpsPilot** — an autonomous operations agent powered by the **Model Context Protocol (MCP)** and the **Claude API**
 - 🧠 Strong foundation across the **AI/ML** stack — from LLM-driven semantic search to multi-model computer vision pipelines (YOLOv8)
-- 🏗️ Full-stack engineer across **Spring Boot, Node.js, Angular, React, Next.js, and FastAPI**
-- 📈 Product-engineering mindset — focused on reliability, CI/CD, audit trails, and measurable impact (e.g., a 99% reduction in manual research at Darby)
-- 🎓 Honors student — GPA 3.72/4.00, Dean's List
+- 🏗️ Full-stack engineer across **Spring Boot, Node.js, Angular, React, Next.js, Express, and FastAPI**
+- 📈 Product-engineering mindset — focused on reliability, CI/CD, audit trails, and measurable impact (e.g., a 99% reduction in manual research at Darby, 7.6M+ requests validated in a custom load-testing framework at General Atlantic)
+- 🎓 Honors student — GPA 3.74/4.00, Dean's List
 
 ### Open To
 
 - AI/ML Engineering & Research roles
-- Full-Stack and Backend Software Engineering roles (internships, co-ops, new-grad 2027)
+- Full-Stack and Backend Software Engineering roles (new-grad 2027)
 - Open-source collaboration on agentic AI tooling and developer infrastructure
 - Conversations on LLM application architecture, MCP, and autonomous agents
 
@@ -63,11 +64,9 @@ I'm a Computer Science student at **Northeastern University**, concentrating in 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,r,elixir&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" />
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Racket](https://img.shields.io/badge/Racket-3B5998?style=flat-square&logo=racket&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=tasm&logoColor=white)
 
 **Frontend**
 
@@ -77,11 +76,14 @@ I'm a Computer Science student at **Northeastern University**, concentrating in 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi,postgres,redis,sqlite&theme=dark" />
 
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,jupyter,azure&theme=dark" />
 
-**AI / ML Libraries**
+**AI / ML Libraries & Tools**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -93,6 +95,8 @@ I'm a Computer Science student at **Northeastern University**, concentrating in 
 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLOv8-6366F1?style=flat-square&logo=yolo&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-A855F7?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
@@ -116,6 +120,24 @@ I'm a Computer Science student at **Northeastern University**, concentrating in 
 ---
 
 ## Featured Projects
+
+<details>
+<summary><strong>GameNite Arena — Unified Human/AI Competitive Gaming Platform</strong></summary>
+<br/>
+
+GameNite Arena is a real-time multi-game platform that ranks humans and trained AI opponents on a single competitive ladder. It's built around a custom **Glicko-2 rating engine**, a Redis-cached leaderboard service, and a real-time matchmaker with adaptive rating-window expansion.
+
+| | |
+|---|---|
+| **Stack** | TypeScript, Node.js, Socket.IO, Redis, BullMQ |
+| **Scale** | Four games, unified human/AI rating system, 90%+ test coverage |
+| **Performance** | Redis-cached leaderboard with per-game filtering, pagination, and cache invalidation |
+| **Systems Design** | Adaptive rating-window expansion for real-time matchmaking; BullMQ-driven daily-puzzle pipeline with streak tracking and hint penalties |
+| **Impact** | Replay analysis endpoint grading moves against engine-optimal play using custom minimax logic |
+
+Built as a semester-long team project, GameNite Arena combines competitive integrity (Glicko-2 ratings, engine-graded replays) with engagement mechanics (daily puzzles, streaks, hints) — all served through a low-latency, cache-backed real-time architecture.
+
+</details>
 
 <details>
 <summary><strong>OpsPilot — Autonomous Agent with Model Context Protocol Integration</strong></summary>
@@ -159,21 +181,21 @@ Built with Next.js and FastAPI, the platform operates as an offline-first Progre
 
 ## Experience
 
-### Application Development Co-op · General Atlantic
-**New York, NY · July 2026 – Dec 2026** · *Incoming*
+### Application Developer Co-op · General Atlantic
+**New York, NY · July 2026 – Present**
 
-Incoming co-op with General Atlantic's Application Development team, contributing to the design, development, testing, and deployment of software solutions for one of the world's leading growth equity firms (~$118B AUM, 900+ professionals across 20 countries).
+General Atlantic's first-ever application development co-op, working across two full-stack initiatives on the Application Development team at one of the world's leading growth equity firms.
 
-- Contribute to the design, development, testing, and deployment of software features
-- Collaborate with engineers, product managers, and stakeholders to solve technical challenges
-- Write clean, maintainable, well-documented code and participate in code reviews and team ceremonies
-- Work across the stack with TypeScript, JavaScript, React, C#, SQL, and Microsoft Azure
+- Designed and built a role-gated internal platform for proposing, reviewing, and releasing new internal applications, using React 19, TypeScript, Express, and MSSQL on Azure
+- Implemented a state machine routing each request through product, developer, security, risk, infrastructure, and QA review to an 88-point operational readiness certification, giving teams real-time visibility into request status, stage ownership, and outstanding approvals
+- Shipped 35+ reviewed features and fixes across 26 tickets on a full-stack investor-document portal
+- Engineered a custom load-testing framework that ran 7.6M+ requests to validate production readiness ahead of launch
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-6366F1?style=flat-square&logo=react&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-A855F7?style=flat-square&logo=csharp&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-A855F7?style=flat-square&logo=express&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-8B5CF6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### AI Engineer Co-op · Darby
 **Boston, MA · July 2025 – Dec 2025**
@@ -237,10 +259,11 @@ Built a web application that let users explore artist, album, and track-level au
 
 | Recognition | Details |
 |---|---|
+| **First App Dev Co-op, General Atlantic** | General Atlantic's first-ever Application Development co-op hire |
 | **Dean's List** | Multiple semesters at Northeastern University for academic excellence |
 | **Honors Program** | Admitted to Northeastern University's Honors Program in Computer Science |
-| **GPA 3.72 / 4.00** | Cumulative GPA, B.S. Computer Science, Concentration in Artificial Intelligence |
-| **AI Engineer Co-op, Darby** | Secured competitive co-op position building production AI/ML systems |
+| **GPA 3.74 / 4.00** | Cumulative GPA, B.S. Computer Science, Concentration in Artificial Intelligence |
+| **NU Aaroh Performer** | Performed in multiple shows with Northeastern's Indian music club |
 
 </div>
 
@@ -279,18 +302,19 @@ Built a web application that let users explore artist, album, and track-level au
 
 ```yaml
 current_focus:
+  building:
+    - General Atlantic internal application review platform — Application Developer Co-op
+    - OpsPilot — autonomous agent with Model Context Protocol integration
+    - Personal portfolio & developer tooling experiments
   learning:
     - Distributed systems & event-driven architectures
     - Advanced retrieval-augmented generation (RAG) techniques
     - Reinforcement learning fundamentals
-  building:
-    - OpsPilot — autonomous agent with Model Context Protocol integration
-    - Personal portfolio & developer tooling experiments
   exploring:
     - Multi-agent orchestration frameworks
     - Edge deployment for computer vision models
   open_to:
-    - AI/ML Engineering internships & new-grad roles (2027)
+    - AI/ML Engineering & new-grad roles (2027)
     - Full-stack software engineering opportunities
     - Open-source collaboration on agentic tooling
 ```
